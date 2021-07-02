@@ -3,11 +3,17 @@
   width: 400px;
 }
 
-
 #image
 {
   max-width: 100%;
   height: auto;
   display: block;
   margin: auto;
+}
+
+body
+{
+  background-color:black;
+  color: white;
+  font-family: calibri;
 }
